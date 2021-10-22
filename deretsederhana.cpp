@@ -14,11 +14,11 @@ int deretsederhana()
 {
     int i,m;
     cout<<"Program Cihuy";
-   i = 0;
-   m = 0;
-   while(i < 9){
+    i = 0;
+    m = 0;
+    while(i < 9){
        m = i * i;
        cout<<m<<"\n";
        i = i + 1;
-   }
+    }
 }
